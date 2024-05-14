@@ -21,7 +21,19 @@ This application requires the following dependencies:
     ```
     pip install pyperclip
     ```
+4. Clone the repository to your local machine:
+```bash
+git clone https://github.com/yourusername/PasswordGenerator.git
+```
+5. Navigate to the project directory:
+```bash
+cd PasswordGenerator
+```
 
+6. Run the application:
+```bash
+python main.py
+```
 ## Usage
 
 To use the password generator:
