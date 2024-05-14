@@ -36,12 +36,22 @@ python main.py
 ```
 ## Usage
 
-To use the password generator:
+- Enter the desired length of the password.
+- Click on the "GENERATE PASSWORD" button to generate a random password.
+- The generated password will be displayed in the text field.
+- Click on the "COPY TO CLIPBOARD" button to copy the generated password to your clipboard.
 
-1. Run the `password_generator.py` script.
-2. Enter the desired length for the password in the provided input field.
-3. Click the "GENERATE PASSWORD" button to generate a random password.
-4. Click the "COPY TO CLIPBOARD" button to copy the generated password to your clipboard.
+## Features
+- Generate random passwords of variable lengths.
+- Customizable password length.
+- Passwords contain a mix of uppercase letters, lowercase letters, digits, and special characters.
+- Copy generated passwords to clipboard for easy use.
+
+## ScreenShots
+
+<img width="400" alt="Screenshot 2024-05-14 at 1 34 47 PM" src="https://github.com/Karthi905968/Python-Project2-PasswordGenerator/assets/144101745/2561ef21-42f5-4f16-8ee7-cf6716d1e1f5">
+<img width="400" alt="Screenshot 2024-05-14 at 1 55 37 PM" src="https://github.com/Karthi905968/Python-Project2-PasswordGenerator/assets/144101745/129c0919-ee69-4786-ac72-b5cdc5f5d3a5">
+
 
 ## Credits
 
