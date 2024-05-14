@@ -30,7 +30,7 @@ arch -x86_64 /usr/bin/python3
 arch -x86_64 /usr/bin/python3 -m pip install pygame
 ```
 ```bash
-arch -x86_64 /usr/bin/python3 slicemaster.py
+arch -x86_64 /usr/bin/python3 main.py
 ```
 ## Usage
 - Enter the desired length of the password.
